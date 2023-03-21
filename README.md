@@ -1,0 +1,1 @@
+# Accessing-multiple-inputs-in-single-line-PY
